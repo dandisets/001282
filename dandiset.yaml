@@ -7,9 +7,29 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach:
+  - name: electrophysiological approach
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: multi electrode extracellular electrophysiology recording technique
+    schemaKey: MeasurementTechniqueType
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 29215221246
+  numberOfFiles: 1
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9544
+    name: Macaca mulatta - Rhesus monkey
+    schemaKey: SpeciesType
+  variableMeasured:
+  - ElectricalSeries
+  - ElectrodeGroup
 citation: Windolf, Charlie (2024) Neuropixels 1.0-NHP insertion datasets (Version
   draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001282/draft
 contributor:
