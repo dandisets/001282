@@ -32,7 +32,7 @@ assetsSummary:
   - ElectricalSeries
   - ElectrodeGroup
 citation: Windolf, Charlie (2026) Neuropixels 1.0-NHP insertion datasets (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001282/draft
+  0.260916.2113) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001282/0.260916.2113
 contributor:
 - affiliation: []
   email: charliexwindolf@gmail.com
@@ -42,6 +42,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2024-12-20T15:59:08.068642+00:00'
+datePublished: '2026-09-16T21:13:21.473901+00:00'
 description: 'These are Neuropixels recordings made in non-human primates during deep
   probe insertions, collected by Eric Trautmann with guidance from Mike Shadlen and
   Mark Churchland. They are analyzed in Figure 4 and Supplementary Figure 5 of Windolf
@@ -51,21 +52,34 @@ description: 'These are Neuropixels recordings made in non-human primates during
   the preprint (https://www.biorxiv.org/content/10.1101/2023.10.24.563768v1) under
   Datasets. See also Trautmann et al., "Large-scale brain-wide neural recording in
   nonhuman primates" (https://www.biorxiv.org/content/10.1101/2023.02.01.526664v1).'
+doi: 10.48324/dandi.001282/0.260916.2113
 ethicsApproval: []
-id: DANDI:001282/draft
+id: DANDI:001282/0.260916.2113
 identifier: DANDI:001282
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001282/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001282/0.260916.2113/assets.yaml
 name: Neuropixels 1.0-NHP insertion datasets
 protocol: []
+publishedBy:
+  endDate: '2026-09-16T21:13:21.473901+00:00'
+  id: urn:uuid:4a88d531-59eb-4166-abcc-a7a6cac25a40
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-09-16T21:13:21.473901+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:81c7e4ad-a92d-4ead-9ed6-efb0dffcf7d4
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
 studyTarget: []
-url: https://dandiarchive.org/dandiset/001282/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001282/0.260916.2113
+version: 0.260916.2113
 wasGeneratedBy: []
