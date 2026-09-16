@@ -39,6 +39,8 @@
 ],
 "dateModified":
 "2024-12-30T20:49:40.799788-05:00",
+"datePublished":
+"2026-09-16T21:13:21.517873+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -69,6 +71,34 @@
 ],
 "path":
 "sub-C/sub-C_ses-20220121T133754_ecephys.nwb",
+"publishedBy":
+{
+"endDate":
+"2026-09-16T21:13:21.517873+00:00",
+"id":
+"urn:uuid:4764b173-64b4-4757-8e20-6b32caec5561",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2026-09-16T21:13:21.517873+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:be9ce7f0-49a5-41b7-9887-77fde5b00e5f",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -175,7 +205,7 @@
 ]
 },
 "modified":
-"2024-12-31T05:22:24.787887Z",
+"2026-09-16T21:13:21.522504Z",
 "path":
 "sub-C/sub-C_ses-20220121T133754_ecephys.nwb",
 "size":
@@ -221,6 +251,8 @@
 ],
 "dateModified":
 "2024-12-30T20:49:42.056241-05:00",
+"datePublished":
+"2026-09-16T21:13:21.534490+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -251,6 +283,34 @@
 ],
 "path":
 "sub-C/sub-C_ses-20220218T140109_ecephys.nwb",
+"publishedBy":
+{
+"endDate":
+"2026-09-16T21:13:21.534490+00:00",
+"id":
+"urn:uuid:36e3cbea-bb06-4839-aefc-af413fa17404",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2026-09-16T21:13:21.534490+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:441f0ddc-e028-4760-84f2-5e26ce7eb3df",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -357,7 +417,7 @@
 ]
 },
 "modified":
-"2024-12-31T05:24:49.757945Z",
+"2026-09-16T21:13:21.537941Z",
 "path":
 "sub-C/sub-C_ses-20220218T140109_ecephys.nwb",
 "size":
